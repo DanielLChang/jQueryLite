@@ -1,5 +1,12 @@
 # jQueryLite
 
+##Overview
+
+Recreate most of the important functionality of the jQuery Library. jQuery is widely used for making AJAX requests, handling events, manipulating the DOM, and guaranteeing it works across browsers. Will implement most of the functionality using the native DOM API build into every browser.
+
++ Check MDN site for full list of API methods.
++ jQuery documentation for additional info.
+
 ##Learning Goals
 
 + Know how to traverse and manipulate the DOM using vanilla JavaScript
